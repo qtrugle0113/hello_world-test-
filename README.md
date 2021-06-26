@@ -1,1 +1,1 @@
-# test
+// test C program
